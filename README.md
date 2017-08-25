@@ -10,7 +10,7 @@ The goal of this course is fairly simple - we want to ramp you up on everything 
 
 We believe the best education in the world should be freely accessible and we’ve been fortunate to work with great companies like Facebook, Uber, Airbnb, Box, and others to help make this vision a reality. We are committed to bringing our in-person classes and approach to high-quality technical curriculum to colleges in the world and offer them for free. Please visit this [link](http://codepath.com/about) to learn more on why we are doing this. 
 
-If you are interested and serious about learning iOS development, please complete this [**application form**](https://codepath.org/classes). You can also learn more on how our classes work at https://codepath.org/.
+If you are interested and serious about learning iOS development, please fill out this [**application form**](https://goo.gl/forms/WEyMDld46xAO5Xxn2). You can also learn more on how our classes work at https://codepath.org/.
 
 Thanks and look forward to hearing from you soon!
 
