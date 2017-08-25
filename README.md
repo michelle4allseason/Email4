@@ -10,7 +10,7 @@ The goal of this course is fairly simple - we want to ramp you up on everything 
 
 We believe the best education in the world should be freely accessible and we’ve been fortunate to work with great companies like Facebook, Uber, Airbnb, Box, and others to help make this vision a reality. Check out this [blog post by Charlie](https://blog.codepath.com/2016/06/14/an-experiment-across-17-universities-shows-the-secret-to-diversifying-the-tech-industry/). 
 
-If you are interested, please complete this [**application form**](https://codepath.org/). You can learn more on how our classes work at https://codepath.org/.
+If you are interested, please complete this [**application form**](https://codepath.org/classes). You can also learn more on how our classes work at https://codepath.org/.
 
 Thanks and look forward to hearing from you soon!
 
